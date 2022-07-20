@@ -1,0 +1,10 @@
+# packages in environment at /home/srikanth/anaconda3/envs/vilbert-mt:
+#
+# Name                    Version                   Build  Channel
+tensorboard               2.9.1                    pypi_0    pypi
+tensorboard-data-server   0.6.1                    pypi_0    pypi
+tensorboard-plugin-wit    1.8.1                    pypi_0    pypi
+tensorboardx              1.2                      pypi_0    pypi
+tensorflow                2.5.0                    pypi_0    pypi
+tensorflow-estimator      2.5.0                    pypi_0    pypi
+tensorpack                0.9.4                    pypi_0    pypi
